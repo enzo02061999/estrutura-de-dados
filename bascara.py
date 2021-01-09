@@ -14,4 +14,4 @@ if (f>=0):
   print("As duas possíveis respostas são:", x, "e",  y)
 else:
   print("O delta é:", f)
-  print("Como o delta é negativo, não há resposta")
+  print("Como o delta é negativo, não há uma resposta")
